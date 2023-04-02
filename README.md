@@ -1,7 +1,7 @@
 # Servlet-Demo
 ## 这是一个 Java Servlet Demo 示例程序 
 ```bash
-使用环境:
+使用环境:(Maven工程 要注意依赖版本)
 ```
  #### idea2022.3.3
  #### mava v3.9.0
